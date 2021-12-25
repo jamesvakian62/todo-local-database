@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-ToDo-Local-Database (Array of Objects )
+ToDo-Local-Database (Array of Objects, several useState, useEffect functions )
 
 ![Screen Shot 2021-12-24 at 5 36 45 PM](https://user-images.githubusercontent.com/95377031/147375553-7e3c6acb-ecef-41c1-a253-47ad3d8041b2.png)
 
